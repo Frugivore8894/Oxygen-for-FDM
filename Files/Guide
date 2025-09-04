@@ -1,6 +1,9 @@
 There assemblies of all the parts in both a F3D file and a STEP file
 
-These files differ in a few ways from the original versions posted by Panomicron. Further explanation and a build guide for the FDM version will be made... at some point.
+These files differ in a few ways from the original versions posted by Panomicron. 
+Further explanation and a build guide for the FDM version will be made... at some point.
 
-The viewfinder is hevily modified for ease of FDM printing, optical elements and the front mask will need to be updated for the focal length of your lens. There is a guide on the Panomicron site and a viewfinder calculator I made linked below (make a copy, there is an example in the calculator). I recomend using Edmound optics lenses, the catalog is wide and easily searchable.
+The viewfinder is hevily modified for ease of FDM printing, optical elements and the front mask will need to be updated for the focal length of your lens. 
+There is a guide on the Panomicron site and a viewfinder calculator I made linked below (make a copy, there is an example in the calculator).
+I recomend using Edmound optics lenses, the catalog is wide and easily searchable.
 https://docs.google.com/spreadsheets/d/1_aFrjY3q3js2uKRx8a92IeIsC9NmvQJftwuDBa5m-nc/edit?usp=sharing
